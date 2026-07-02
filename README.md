@@ -1,14 +1,14 @@
 # CryptoPulse – Real-Time Crypto Price Streaming Dashboard
 
 **Course:** Advanced Web Development – Streaming  
-**Student:** Ashraf Haj Hamoud  
+**Student:** Ashraf Haj Hamoud  -- Ahmed Omar Abbas
 **University:** International University of Sciences and Renaissance – Faculty of IT Engineering
 
 ---
 
 ## Demo Video
 
-> 📹 **https://youtu.be/YOUR-VIDEO-LINK**
+> 📹 **[https://youtu.be/YOUR-VIDEO-LINK](https://youtu.be/nH4wg1Xb5k0)**
 
 ---
 
