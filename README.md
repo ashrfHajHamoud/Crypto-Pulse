@@ -9,7 +9,7 @@
 ## Demo Video
 
 > 📹Ashraf Haj Hamoud **[https://youtu.be/YOUR-VIDEO-LINK](https://youtu.be/nH4wg1Xb5k0)**
-> > 📹Ahmed Omar Abbas **[[https://youtu.be/YOUR-VIDEO-LINK](https://youtu.be/nH4wg1Xb5k0)](https://youtu.be/FyTelTHIrQg)**
+> > 📹Ahmed Omar Abbas **https://youtu.be/FyTelTHIrQg**
 
 ---
 
