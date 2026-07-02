@@ -1,0 +1,12 @@
+{
+  "profiles": {
+    "CryptoPulse": {
+      "commandName": "Project",
+      "launchBrowser": true,
+      "environmentVariables": {
+        "ASPNETCORE_ENVIRONMENT": "Development"
+      },
+      "applicationUrl": "https://localhost:52773;http://localhost:52774"
+    }
+  }
+}

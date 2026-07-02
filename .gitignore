@@ -1,0 +1,23 @@
+## .NET
+bin/
+obj/
+*.user
+appsettings.Development.json
+*.db
+
+## IDE
+.vs/
+.idea/
+*.suo
+
+## OS
+.DS_Store
+Thumbs.db
+
+## Video (never commit)
+*.mp4
+*.mov
+*.avi
+
+## Secrets – never commit API keys
+secrets.json
