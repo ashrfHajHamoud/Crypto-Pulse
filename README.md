@@ -49,7 +49,7 @@ git clone https://github.com/YOUR-USER/CryptoPulse.git
 cd CryptoPulse
 dotnet restore
 dotnet run
-# Then open: https://localhost:5001
+# Then open: https://localhost:52773
 ```
 
 ---
